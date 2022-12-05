@@ -1,3 +1,4 @@
+// indent implements Indent function that allows to indent multiline strings
 package indent
 
 import (
