@@ -7,8 +7,8 @@ import (
 func requireEqual(t *testing.T, expectedString, resultString string) {
 	t.Helper()
 	if expectedString != resultString {
-		t.Errorf("expected equal strings:\n  expected: %q\n  result: %q\n", 
-		expectedString, resultString)
+		t.Errorf("expected equal strings:\n  expected: %q\n  result: %q\n",
+			expectedString, resultString)
 	}
 }
 

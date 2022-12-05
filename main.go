@@ -7,6 +7,7 @@ import (
 )
 
 var lineExpression *regexp.Regexp
+
 func init() {
 	lineExpression = regexp.MustCompile("(?m)^(.+)$")
 }
