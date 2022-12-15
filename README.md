@@ -1,5 +1,5 @@
 [![Go Reference](https://img.shields.io/badge/go-reference-%2300ADD8?style=flat-square)](https://pkg.go.dev/github.com/backdround/go-indent)
-[![Tests](https://img.shields.io/github/workflow/status/backdround/go-indent/tests?label=tests&style=flat-square)](https://github.com/backdround/go-indent/actions)
+[![Tests](https://img.shields.io/github/actions/workflow/status/backdround/go-indent/tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/backdround/go-indent/actions)
 [![Codecov](https://img.shields.io/codecov/c/github/backdround/go-indent?style=flat-square)](https://app.codecov.io/gh/backdround/go-indent/)
 [![Go Report](https://goreportcard.com/badge/github.com/backdround/go-indent?style=flat-square)](https://goreportcard.com/report/github.com/backdround/go-indent)
 
